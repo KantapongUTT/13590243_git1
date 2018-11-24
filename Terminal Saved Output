@@ -1,0 +1,49 @@
+Last login: Sat Nov 24 09:28:47 on console
+Macintosh-6:~ ict$ cd
+Macintosh-6:~ ict$ cd
+Macintosh-6:~ ict$ cd
+Macintosh-6:~ ict$ cd
+Macintosh-6:~ ict$ cd
+Macintosh-6:~ ict$ cd
+Macintosh-6:~ ict$ cd
+Macintosh-6:~ ict$ cd
+Macintosh-6:~ ict$ nkdir 13590243_git1
+-bash: nkdir: command not found
+Macintosh-6:~ ict$ mkdir 13590243_git1
+Macintosh-6:~ ict$ cd/Users/ict/Desktop/13590243_git1 
+-bash: cd/Users/ict/Desktop/13590243_git1: No such file or directory
+Macintosh-6:~ ict$ cd/Users
+-bash: cd/Users: No such file or directory
+Macintosh-6:~ ict$ cd/Desktop 
+-bash: cd/Desktop: No such file or directory
+Macintosh-6:~ ict$ 
+Macintosh-6:~ ict$ cd desktop
+Macintosh-6:desktop ict$ cd/Users/ict/Desktop/13590243_git1 
+-bash: cd/Users/ict/Desktop/13590243_git1: No such file or directory
+Macintosh-6:desktop ict$ cd 13590243_git1
+Macintosh-6:13590243_git1 ict$ vim index.html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>CSS Template</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Style the header */
+.header {
+    background-color: #f1f1f1;
+    padding: 30px;
+    text-align: center;
+    font-size: 35px;
+}
+
+
